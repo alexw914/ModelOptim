@@ -1,0 +1,10 @@
+.venv
+
+models/
+models/*.onnx
+
+*/__pycache__/
+*/*/__pycache__/
+*/*.pyc
+
+*.json

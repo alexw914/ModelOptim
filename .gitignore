@@ -1,0 +1,11 @@
+.venv
+onnx/model
+onnx/model/*
+
+onnx/*.onnx
+
+*/__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store

@@ -1,0 +1,9 @@
+[submodule "onnx/OnnxSlim"]
+	path = onnx/OnnxSlim
+	url = https://github.com/inisis/OnnxSlim.git
+[submodule "pytorch/train/object_detection/ultralytics"]
+	path = pytorch/train/object_detection/ultralytics
+	url = https://github.com/ultralytics/ultralytics.git
+[submodule "onnx/onnxsim"]
+	path = onnx/onnxsim
+	url = https://github.com/onnxsim/onnxsim.git
